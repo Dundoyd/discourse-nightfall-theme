@@ -14,14 +14,14 @@
 
 
 // To enable body image background, uncomment code block bellow:
-// body {
-//   &:not(.admin-interface) {
-//     background: url(dust_texture.svg);
-//     background-repeat: no-repeat;
-//     background-attachment: fixed;
-//     background-position: center;
-//   }
-// }
+ body {
+   &:not(.admin-interface) {
+    background: url(dust_texture.svg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+         background-position: center;
+   }
+ }
 
 
 // To enable header image background, uncomment code block bellow:
