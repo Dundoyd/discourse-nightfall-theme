@@ -119,5 +119,7 @@ body {
     font-size: var(--font-0);
     transition: none;
     height: 100%;
+    font-size: $font-up-2;
+    text-transform: capitalize;
 }
 }
